@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">早睡达人</string>
+    <string name="sleep">睡了 ^_^</string>
+    <string name="error">不对哦~</string>
+    <string name="checkout">结算</string>
+    <string name="close">关闭</string>
+    <string name="success">成功啦~</string>
+    <string name="success_message1">妈妈再也不用担心我晚睡了~</string>
+    <string name="success_message2">一个已经早睡的我怎么拯救一个晚睡的你~</string>
+    <string name="success_message3">终于做到了~</string>
+    <string name="success_message4">安西教练，我想睡觉~</string>
+    <string name="success_message5">我可是要成为早睡的男人~</string>
+    <string name="success_message6">我们中出了个不想早睡的叛徒~</string>
+    <string name="success_message7">我们走在早睡的康庄大道上，吧砸嘿~</string>
+    <string name="success_message8">代表月亮，早睡吧~</string>
+    <string name="success_message9">早睡王只有一个~</string>
+    <string name="success_message10">早睡就由我来守护吧~</string>
+    <string name="data_exists">已经点过了哦~ 再点就把你吃掉</string>
+    <string name="time_validate_error">时间还没到，不要偷睡哦~</string>
+    <string name="title">晚上早早睡，健康一整天</string>
+    <string name="checkout_messsage">你已经睡出了%1$.2f元</string>
+</resources>
